@@ -1,0 +1,2 @@
+rootProject.name='FacebookLoginAndroid'
+include ':app'
